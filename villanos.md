@@ -7,4 +7,4 @@
 4. Doomsday
 5. Deadshot
 6. Frezzer
-7. Dábura
+7. Cell
